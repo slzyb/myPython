@@ -1,0 +1,6 @@
+采集网址：http://x.qcyghfzh.xyz/pw/thread.php?fid=14
+
+起始页：1
+
+结束页：2
+
