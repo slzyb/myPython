@@ -1,0 +1,12 @@
+pip install selenium
+
+selenium的脚本可以控制所有常见浏览器的操作，在使用之前，需要安装浏览器的驱动。
+
+我推荐的是Chrome浏览器，打开下面的链接，就可以下载Chrome的安装包了，Windows和Mac都有。
+
+https://localprod.pandateacher.com/python-manuscript/crawler-html/chromedriver/ChromeDriver.html
+
+Windows系统安装方法：
+此次下载并安装的驱动版本是：2.44
+ChromeDriver下载链接
+点击上面的下载链接，选择对应的版本下载，将下载好的chromedriver_win32.zip解压后是一个exe文件，将其复制到你的Python安装根目录下就好了。
